@@ -2,6 +2,7 @@
 
 stow stow \
   fish \
-	nvim
+  nvim \
+  wezterm
 
 echo "Add 'source ~/.config/fish/shared.fish' to your fish configuration."
