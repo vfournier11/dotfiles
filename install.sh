@@ -2,7 +2,7 @@
 
 SCRIPT_DIR=$(dirname "$0")
 
-stow stow \
+stow --dotfiles stow \
   fish \
   nvim \
   wezterm

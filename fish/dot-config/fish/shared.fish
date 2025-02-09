@@ -7,5 +7,5 @@ abbr -a -- ten trans en:es
 abbr -a -- vi nvim
 
 # starship
-starship init fish | source
+# starship init fish | source
 
