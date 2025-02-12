@@ -2,7 +2,7 @@
 
 ## pre-requesites
 
- - stow
+ - stow (with `--dotfiles` support use `nix-shell -p stow`)
 
 ## installing
 
