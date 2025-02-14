@@ -3,9 +3,12 @@
 SCRIPT_DIR=$(dirname "$0")
 
 stow --dotfiles stow \
+  asdf \
   git \
   fish \
   nvim \
+  modern-neovim \
+  starship \
   wezterm
 
 WINDOWS_FOLDER=/mnt/c/Users/vfournier
